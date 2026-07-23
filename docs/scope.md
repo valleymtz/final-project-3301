@@ -15,3 +15,7 @@ In order for this project to be a success the website will provide store informa
 ### Exclusions
 
 This specific project will not contain an online ordering system as we want to grow our foot traffic first. This will also not be a store inventory platform.
+
+### Technical Requirements
+
+This project will include a documents folder with my scope, plan, and retrospective. It will also include an about.html and an index.html. I will add a README.md file and to ensure my website has character it will include a style.css file.
