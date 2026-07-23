@@ -12,14 +12,26 @@ h1 {
 }
 h2 {
     font-family: Georgia, serif;
-    font-size: 28px;
-    color: #ffffff;
+    font-size: 36px;
+    color: #473521;
     text-align: center;
-    background-color: #64423f;
+    background-color: #fff2d9;
 
     margin: 20px auto;
     padding: 20px;
-    border: 3px solid #d7a19b;
+    border: 3px solid #fff2d9;
+    width: 80%;
+}
+h3 {
+    font-family: Georgia, serif;
+    font-size: 24px;
+    color: #473521;
+    text-align: center;
+    background-color: #fff2d9;
+
+    margin: 20px auto;
+    padding: 20px;
+    border: 3px solid #fff2d9;
     width: 80%;
 }
 p {
